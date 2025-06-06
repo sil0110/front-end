@@ -1,0 +1,8 @@
+2025-05-25 17:50:20.855+07:00 [DESKTOP-F0EJIRH][D:2][T:34][ERROR] DotNetNuke.Web.Common.Internal.DotNetNukeHttpApplication - System.NullReferenceException: Object reference not set to an instance of an object.
+   at DotNetNuke.Common.Utilities.Config.GetDefaultProvider(String type)
+   at DotNetNuke.Common.Utilities.Config.GetConnectionString()
+   at DotNetNuke.Data.DataProvider.get_ConnectionString()
+   at DotNetNuke.Data.DataProvider.PurgeLog()
+   at DotNetNuke.Services.Log.EventLog.DBLoggingProvider.PurgeLogBuffer()
+   at DotNetNuke.Common.Initialize.LogEnd()
+   at DotNetNuke.Web.Common.Internal.DotNetNukeHttpApplication.Application_End(Object sender, EventArgs eventArgs)

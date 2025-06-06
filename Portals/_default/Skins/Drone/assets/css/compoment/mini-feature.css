@@ -1,0 +1,70 @@
+/**********************************/
+/******** Mini Feature CSS ********/
+/**********************************/
+#feature-mini {
+    position: relative;
+    background: transparent;
+    margin-top: -80px;
+}
+
+#feature-mini .container {
+    max-width: 992px;
+    background: #FFD662;
+}
+
+#feature-mini .col-md-3 {
+    border-right: 1px solid #ffffff;
+    border-bottom: 1px solid #ffffff;
+}
+
+@media (max-width: 575.98px) {
+    #feature-mini .col-md-3:nth-child(1n) {
+        border-right: none;
+    }
+    
+    #feature-mini .col-md-3:last-child {
+        border-bottom: none;
+    }
+}
+
+@media (min-width: 576px) and (max-width: 767.98px) {
+    #feature-mini .col-md-3:nth-child(2n) {
+        border-right: none;
+    }
+    
+    #feature-mini .col-md-3:nth-child(3n),
+    #feature-mini .col-md-3:nth-child(4n) {
+        border-bottom: none;
+    }
+}
+
+@media (min-width: 768px) {
+    #feature-mini .col-md-3 {
+        border-bottom: none;
+    }
+    
+    #feature-mini .col-md-3:nth-child(4n) {
+        border-right: none;
+    }
+}
+
+#feature-mini .feature-item {
+    padding: 30px 0;
+    text-align: center;
+}
+
+#feature-mini .feature-item i {
+    color: #ffffff;
+    font-size: 35px;
+    margin-bottom: 10px;
+}
+
+#feature-mini .feature-item h3 {
+    font-size: 22px;
+    font-weight: 400;
+}
+
+#feature-mini .feature-item p {
+    margin: 0;
+    font-size: 18px;
+}

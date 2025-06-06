@@ -1,0 +1,50 @@
+.section-header {
+    position: relative;
+    max-width: 700px;
+    margin: 0 auto 45px auto;
+    padding-bottom: 20px;
+}
+
+.section-header::before {
+    content: '';
+    position: absolute;
+    width: 50px;
+    height: 2px;
+    left: calc(50% - 25px);
+    bottom: 10px;
+    background: #FFD662;
+}
+
+.section-header::after {
+    content: '';
+    position: absolute;
+    width: 100px;
+    height: 2px;
+    left: calc(50% - 50px);
+    bottom: 0;
+    background: #333333;
+}
+
+.section-header p {
+    margin: 0;
+    color: #FFD662;
+    font-size: 25px;
+    font-weight: 700;
+    text-align: center;
+}
+
+.section-header h1 {
+    margin: 0;
+    color: #000000;
+    font-size: 70px;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 5px;
+    text-align: center;
+}
+
+@media (max-width: 575.98px) {
+    .section-header h1 {
+        font-size: 45px;
+    }
+}

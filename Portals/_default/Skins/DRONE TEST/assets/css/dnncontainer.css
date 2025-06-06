@@ -1,0 +1,308 @@
+.contraC .contentpane ul.angle-list {
+    list-style-type: none;
+    margin-bottom: 0;
+    margin-left: 0;
+}
+.contraC .contentpane ul.angle-list ul {
+    list-style-type: none;
+}
+.contraC .contentpane ul.angle-list li:before {
+    content: "\f105";
+    font: normal normal normal 14px/1 FontAwesome;
+    font-size: inherit;
+    text-rendering: auto;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    margin-right: 10px;
+}
+.contraC .contentpane ul.angle-double-list {
+    list-style-type: none;
+    margin-bottom: 0;
+    margin-left: 0;
+}
+.contraC .contentpane ul.angle-double-list ul {
+    list-style-type: none;
+}
+.contraC .contentpane ul.angle-double-list li:before {
+    content: "\f101";
+    font: normal normal normal 14px/1 FontAwesome;
+    font-size: inherit;
+    text-rendering: auto;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    margin-right: 10px;
+}
+.contraC .contentpane ul.arrow-list {
+    list-style-type: none;
+    margin-bottom: 18px;
+    margin-left: 0;
+}
+.contraC .contentpane ul.arrow-list ul {
+    list-style-type: none;
+}
+.contraC .contentpane ul.arrow-list li:before {
+    content: "\f061";
+    font: normal normal normal 14px/1 FontAwesome;
+    font-size: inherit;
+    text-rendering: auto;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    margin-right: 10px;
+}
+.contraC .contentpane ul.arrow-circle-list {
+    list-style-type: none;
+    margin-bottom: 0;
+    margin-left: 0;
+}
+.contraC .contentpane ul.arrow-circle-list ul {
+    list-style-type: none;
+}
+.contraC .contentpane ul.arrow-circle-list li:before {
+    content: "\f0a9";
+    font: normal normal normal 14px/1 FontAwesome;
+    font-size: inherit;
+    text-rendering: auto;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    margin-right: 10px;
+}
+.contraC .contentpane ul.chevron-list {
+    list-style-type: none;
+    margin-bottom: 0;
+    margin-left: 0;
+}
+.contraC .contentpane ul.chevron-list ul {
+    list-style-type: none;
+}
+.contraC .contentpane ul.chevron-list li:before {
+    content: "\f054";
+    font: normal normal normal 14px/1 FontAwesome;
+    font-size: inherit;
+    text-rendering: auto;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    margin-right: 10px;
+}
+.contraC .contentpane ul.chevron-circle-list {
+    list-style-type: none;
+    margin-bottom: 0;
+    margin-left: 0;
+}
+.contraC .contentpane ul.chevron-circle-list ul {
+    list-style-type: none;
+}
+.contraC .contentpane ul.chevron-circle-list li:before {
+    content: "\f138";
+    font: normal normal normal 14px/1 FontAwesome;
+    font-size: inherit;
+    text-rendering: auto;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    margin-right: 10px;
+}
+.contraC .contentpane ul.caret-list {
+    list-style-type: none;
+    margin-bottom: 0;
+    margin-left: 0;
+}
+.contraC .contentpane ul.caret-list ul {
+    list-style-type: none;
+}
+.contraC .contentpane ul.caret-list li:before {
+    content: "\f0da";
+    font: normal normal normal 14px/1 FontAwesome;
+    font-size: inherit;
+    text-rendering: auto;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    margin-right: 10px;
+}
+.contraC .contentpane ul.caret-square-list {
+    list-style-type: none;
+    margin-bottom: 0;
+    margin-left: 0;
+}
+.contraC .contentpane ul.caret-square-list ul {
+    list-style-type: none;
+}
+.contraC .contentpane ul.caret-square-list li:before {
+    content: "\f152";
+    font: normal normal normal 14px/1 FontAwesome;
+    font-size: inherit;
+    text-rendering: auto;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    margin-right: 10px;
+}
+.contraC .contentpane ul.tick-list {
+    list-style-type: none;
+    margin-bottom: 0;
+    margin-left: 0;
+}
+.contraC .contentpane ul.tick-list ul {
+    list-style-type: none;
+}
+.contraC .contentpane ul.tick-list li:before {
+    content: "\f00c";
+    font: normal normal normal 14px/1 FontAwesome;
+    font-size: inherit;
+    text-rendering: auto;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    margin-right: 10px;
+}
+.contraC .contentpane ul.tick-circle-list {
+    list-style-type: none;
+    margin-bottom: 0;
+    margin-left: 0;
+}
+.contraC .contentpane ul.tick-circle-list ul {
+    list-style-type: none;
+}
+.contraC .contentpane ul.tick-circle-list li:before {
+    content: "\f05d";
+    font: normal normal normal 14px/1 FontAwesome;
+    font-size: inherit;
+    text-rendering: auto;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    margin-right: 10px;
+}
+.contraC .contentpane ul.cross-list {
+    list-style-type: none;
+    margin-bottom: 0;
+    margin-left: 0;
+}
+.contraC .contentpane ul.cross-list ul {
+    list-style-type: none;
+}
+.contraC .contentpane ul.cross-list li:before {
+    content: "\f00d";
+    font: normal normal normal 14px/1 FontAwesome;
+    font-size: inherit;
+    text-rendering: auto;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    margin-right: 10px;
+}
+.contraC .contentpane ul.cross-circle-list {
+    list-style-type: none;
+    margin-bottom: 0;
+    margin-left: 0;
+}
+.contraC .contentpane ul.cross-circle-list ul {
+    list-style-type: none;
+}
+.contraC .contentpane ul.cross-circle-list li:before {
+    content: "\f05c";
+    font: normal normal normal 14px/1 FontAwesome;
+    font-size: inherit;
+    text-rendering: auto;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    margin-right: 10px;
+}
+.contraC .contentpane ul.link-list {
+    list-style-type: none;
+    margin-bottom: 0;
+    margin-left: 0;
+}
+.contraC .contentpane ul.link-list ul {
+    list-style-type: none;
+}
+.contraC .contentpane ul.link-list li:before {
+    content: "\f0c1";
+    font: normal normal normal 14px/1 FontAwesome;
+    font-size: inherit;
+    text-rendering: auto;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    margin-right: 10px;
+}
+/* .contraC .contentpane a, .contraC .contentpane a:active, .contraC .contentpane a:link, .contraC .contentpane a:visited, a:focus {
+    font-weight: 300;
+} */
+.contraC .contentpane a:hover {
+    text-decoration: none;
+}
+.contraC h1.arrow:before, .contraC h2.arrow:before, .contraC h3.arrow:before, .contraC h4.arrow:before, .contraC h5.arrow:before, .contraC h6.arrow:before {
+    font-family: FontAwesome;
+    content: "\f054";
+    font-size: 16px;
+    text-rendering: auto;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    padding-right: 5px;
+}
+.contraC h1.circle:before, .contraC h2.circle:before, .contraC h3.circle:before, .contraC h4.circle:before, .contraC h5.circle:before, .contraC h6.circle:before {
+    font-family: FontAwesome;
+    content: "\f111";
+    font-size: 16px;
+    text-rendering: auto;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    padding-right: 5px;
+}
+.contraC h1.lined, .contraC h2.lined, .contraC h3.lined, .contraC h4.lined, .contraC h5.lined, .contraC h6.lined {
+    margin-bottom: 5px;
+}
+.btn-round {
+    position: relative;
+    z-index: 1;
+    width: 37px;
+    height: 37px;
+    padding: 0;
+    background-color: #a6c;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    border-radius: 50%;
+    background-clip: padding-box;
+    -webkit-transition: all .5s ease-in-out;
+    -moz-transition: all .5s ease-in-out;
+    -o-transition: all .5s ease-in-out;
+    transition: all .5s ease-in-out;
+    vertical-align: middle;
+    margin: 10px;
+}
+.btn-round, .btn-round i {
+    display: inline-block;
+    line-height: 37px;
+    text-align: center;
+}
+.btn-square {
+    position: relative;
+    z-index: 1;
+    width: 37px;
+    height: 37px;
+    padding: 0;
+    background-color: #a6c;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    border-radius: 5px;
+    background-clip: padding-box;
+    -webkit-transition: all .5s ease-in-out;
+    -moz-transition: all .5s ease-in-out;
+    -o-transition: all .5s ease-in-out;
+    transition: all .5s ease-in-out;
+    vertical-align: middle;
+    margin: 10px;
+}
+.btn-square, .btn-square i {
+    display: inline-block;
+    line-height: 37px;
+    text-align: center;
+}
+
+.contraC .title {
+	color: var(--primary);
+	margin-bottom: 40px;
+	text-align: center;
+}
+footer .contraC .title {
+    color: #fff;
+    text-align: left;
+    margin-bottom: 20px;
+}
+.contraC .title .Head {
+    margin-bottom: 0;
+}

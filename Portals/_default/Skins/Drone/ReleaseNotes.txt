@@ -1,0 +1,15 @@
+﻿<h3>DnnHueCIT Theme for Dnn</h3>
+	huecit.vn <br/>
+	Nam Nguyen Huu Thanh<br />
+	<a href="mailto:info@huecit.vn">info@huecit.vn</a><br />
+	<a href="https://huecit.vn">https://huecit.vn</a><br />
+<hr/>
+	<h3>About the DnnHueCIT Theme</h3>
+
+	<h4>Version 01.00.00</h4><br />
+	Initial release of the skin using Bootstrap v4.0.0.alpha.6 and DNN 8
+	<h5>Bug Fixes</h5>
+	<ul>
+			<li>None, first release</li>
+	</ul>
+</div>
